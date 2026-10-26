@@ -22,7 +22,7 @@ Which minimal systems sense, remember, learn and regulate behavior, and how can 
 
 ## Open questions
 
-- Which interventions separate learning from fatigue, sensory adaptation, selection among cells or changing external conditions?
+- Does a changed population response reflect changes within tracked cells, differences in survival and reproduction, or both?
 - Which capacities transfer across tasks and preparations, and which depend on a particular assay?
 - Which predictions distinguish a proposed source of novel capacities from inherited components, physical dynamics and external training?
 
@@ -30,6 +30,7 @@ Which minimal systems sense, remember, learn and regulate behavior, and how can 
 
 - [Hyperorganism](https://hyperorganism.github.io/)
 - [Biological computation](https://hyperorganism.github.io/unconventional-computing/#physical-and-biological-computations) - Using an organism to compute and testing its learning capacity are different investigations.
+- [Environmental memory](https://hyperorganism.github.io/collective-life/#ecological-organization) - Bacteria can carry the effects of earlier growth in the medium, changing later competition without requiring memory inside individual cells.
 - [Neural interfaces](https://hyperorganism.github.io/biohybrid-systems/#living-actuators-and-neural-interfaces) - Closed-loop laboratory tasks expose both biological activity and apparatus contributions.
 - [Consciousness](https://hyperorganism.github.io/consciousness/) - Memory or learning does not by itself establish experience.
 - [Morphogenesis](https://hyperorganism.github.io/morphogenesis/#growth-and-repair) - Changing regenerative outcomes establishes physiological control; interpreting that control as a trainable goal requires additional tests.
